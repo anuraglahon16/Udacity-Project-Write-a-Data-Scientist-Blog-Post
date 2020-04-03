@@ -12,5 +12,6 @@ In this project, we will attempt to answer some questions, based on a dataset pr
 [Stackoverflow Python file](https://github.com/anuraglahon16/Udacity-Project-Write-a-Data-Scientist-Blog-Post/blob/master/StackOverFlow%20Data.ipynb)
 
 # Results
+Based on the data provided by Stack Overflow, we have answered some question on the [pythonfile](https://github.com/anuraglahon16/Udacity-Project-Write-a-Data-Scientist-Blog-Post/blob/master/StackOverFlow%20Data.ipynb)
 
 # Blog
