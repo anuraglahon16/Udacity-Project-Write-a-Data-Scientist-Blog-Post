@@ -25,11 +25,11 @@ Based on the data provided by Stack Overflow, we have answered some question on 
 ## Summary of the analysis
 1. Psychology have the highest average salary among Majors in undergrad.
 
-Doctoral degree is the highest average salary among Formal Education.
+   Doctoral degree is the highest average salary among Formal Education.
 
 2. Pre-series A startup have the highest average salary among company type.
 
-In Venture-funded startup , 5,000 to 9,999 employees have the highest average salary among company size.
+   In Venture-funded startup , 5,000 to 9,999 employees have the highest average salary among company size.
 
 3. 17-18 years with Professional degree have highest average salary.
 
